@@ -7,7 +7,7 @@
  <!-- dib12 -->
  <project path="device/xiaomi/vince"           name="device_xiaomi_vince"            remote="dibgithub" revision="lineage-21t" clone-depth="1" />
  <project path="vendor/xiaomi/vince"           name="vendor_xiaomi_vince"            remote="dibgithub" revision="lineage-21" clone-depth="1" />
- <project path="device/xiaomi/msm8953-common"  name="device_xiaomi_msm8953-common"   remote="dibgithub" revision="lineage-21t" clone-depth="1" />
+ <project path="device/xiaomi/msm8953-common"  name="device_xiaomi_msm8953-common"   remote="dibgithub" revision="lineage-21f" clone-depth="1" />
  <project path="vendor/xiaomi/msm8953-common"  name="vendor_xiaomi_msm8953-common"   remote="dibgithub" revision="lineage-21" clone-depth="1" />
  <project path="kernel/xiaomi/msm8953"         name="kernel_xiaomi_msm8953"          remote="dibgithub" revision="lineage-21" clone-depth="1" />
 
