@@ -16,7 +16,7 @@
  <project path="frameworks/base" name="android_frameworks_base" remote="dibgithub" revision="lineage-21.0" clone-depth="1" />
 
  <!-- sync fix -->
- <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="dibgithub" revision="lineage-21.0" clone-depth="1" />
+ <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="dibgithub" revision="lineage-21" clone-depth="1" />
  
  <!-- androi_build_mod -->
  <remove-project name="LineageOS/android_build" />
