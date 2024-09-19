@@ -39,6 +39,6 @@
   </project>
 
  <!-- hardware_xiaomi -->
- <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="losgithub" revision="lineage-20" clone-depth="1" />
+ <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="losgithub" revision="lineage-21" clone-depth="1" />
 
 </manifest>
