@@ -42,7 +42,4 @@
  <remove-project name="LineageOS/android_hardware_qcom_audio" />
  <project path="hardware/qcom-caf/msm8996/audio" name="android_hardware_qcom_audio" remote="dibgithub" revision="lineage-20.0-caf-msm8996" clone-depth="1" />
 
- <!-- hardware_xiaomi -->
- <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="losgithub" revision="lineage-21" clone-depth="1" />
-
 </manifest>
